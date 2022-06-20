@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@truffle/contract": "^4.5.14",
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.4.0",
+    "web3": "^1.7.3"
+  }
+}
